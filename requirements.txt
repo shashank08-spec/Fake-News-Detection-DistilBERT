@@ -1,0 +1,25 @@
+# Deep Learning
+torch
+transformers
+accelerate
+
+# Dataset Handling
+datasets
+
+# Machine Learning
+scikit-learn
+
+# Data Processing
+pandas
+numpy
+
+# Visualization
+matplotlib
+
+# Utilities
+tqdm
+
+# Jupyter Notebook
+jupyter
+notebook
+ipykernel
